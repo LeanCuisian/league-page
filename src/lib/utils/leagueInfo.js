@@ -22,10 +22,10 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 // To omit an optional field, set it's value to null
 
 export const managers = [
-     {
+    // {
     //   "roster": 1,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "830874983730348032"
-       "name": "Ian Overbaugh",
+    //  "managerID": "830874983730348032"
+    //   "name": "Ian Overbaugh",
     //   "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Pittsburgh", // (optional)
     //   "bio": "According to Tunch Ilkin, 'Overbaugh has a case of the yips' after committing 3 false starts in one half.",
@@ -44,11 +44,11 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-     },
-     {
+    // },
+    // {
     //   "roster": 2,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "546925061052960768"
-       "name": "Dan Dryer",
+    //  "managerID": "546925061052960768"
+    //   "name": "Dan Dryer",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -67,11 +67,11 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-     },
+    // },
      {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "466346328377520128"
-       "name": "Ty McAfoose",
+    //  "managerID": "466346328377520128"
+    //   "name": "Ty McAfoose",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -90,11 +90,11 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-     },
-     {
+    // },
+    // {
     //   "roster": 4,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-        "managerID": "466469672452091904"
-        "name": "Adam Engstrom",
+    //   "managerID": "466469672452091904"
+    //    "name": "Adam Engstrom",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -113,11 +113,11 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-      },
-      {
+    //  },
+    //  {
     //   "roster": 5,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-        "managerID": "475353628295557120"
-        "name": "Addison Haller",
+    //    "managerID": "475353628295557120"
+    //    "name": "Addison Haller",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -136,11 +136,11 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-      },
-      {
+    //  },
+    // {
     //   "roster": 6,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-        "managerID": "966886262026076160"
-        "name": "Brett Jones",
+    //    "managerID": "966886262026076160"
+    //    "name": "Brett Jones",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -159,11 +159,11 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-      },
-      {
+    //  },
+    //  {
     //   "roster": 7,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-        "managerID": "967290990300135424"
-        "name": "Rich Doyle",
+    //    "managerID": "967290990300135424"
+    //    "name": "Rich Doyle",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -182,11 +182,11 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-      },
-      {
+    //  },
+    // {
     //   "roster": 8,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-        "managerID": "981380626676809728"
-        "name": "JR Hilliard",
+    //    "managerID": "981380626676809728"
+    //    "name": "JR Hilliard",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -205,11 +205,11 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-      },
-      {
+    //  },
+    //  {
     //   "roster": 9,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-        "managerID": "983865341694603264"
-        "name": "Chaz Bondarenka",
+    //    "managerID": "983865341694603264"
+    //    "name": "Chaz Bondarenka",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -228,11 +228,11 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-      },
-      {
+    //  },
+    //  {
     //   "roster": 10,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-        "managerID": "984637480877998080"
-        "name": "Kevin DiCarlo",
+    //   "managerID": "984637480877998080"
+    //    "name": "Kevin DiCarlo",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -251,11 +251,11 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-      },
-      {
+    //  },
+    //  {
     //   "roster": 11,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-        "managerID": "985014336341020672"
-        "name": "Scott Braun",
+    //    "managerID": "985014336341020672"
+    //    "name": "Scott Braun",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -274,11 +274,11 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-      },
-      {
+    //  },
+    //  {
     //   "roster": 11,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-        "managerID": "740354587919269889"
-        "name": "Dale Walker",
+    //    "managerID": "740354587919269889"
+    //    "name": "Dale Walker",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -297,7 +297,7 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    }, 
+    // }
   ]
   
   
